@@ -1,0 +1,3 @@
+1. (B, table, A)
+2. (C, table, B)
+3. (D, table, C)
